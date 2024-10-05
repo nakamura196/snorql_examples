@@ -19,5 +19,8 @@ var D2R_namespacePrefixes = {
     owl: 'http://www.w3.org/2002/07/owl#',
     "jp-textbook": "https://w3id.org/jp-textbook/",
     "jp-cos": "https://w3id.org/jp-cos/",
+    "rico": "https://www.ica.org/standards/RiC/ontology#",
+    "ric-dft": "https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#",
+    "ric-rst": "https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#"
 };
 
